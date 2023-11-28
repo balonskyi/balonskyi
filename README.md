@@ -4,3 +4,4 @@
 ### [Log Microservice](https://github.com/Nurkhan01/Log)
 ### [RabbitMQ](https://github.com/Nurkhan01/RabbitMq)
 ### [University Microservice](https://github.com/doszhvn/university_app)
+### [Education Program](https://github.com/doszhvn/education_program_app)
